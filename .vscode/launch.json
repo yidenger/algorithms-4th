@@ -8,7 +8,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}/chapter1/binarySearch.js"
+      "program": "${workspaceFolder}/chapter1/expression.js"
     }
   ]
 }
