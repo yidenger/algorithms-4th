@@ -1,5 +1,5 @@
 // 数据结构: 栈
-
+// 数组实现
 class Stack {
   constructor() {
     this.top = 0;
