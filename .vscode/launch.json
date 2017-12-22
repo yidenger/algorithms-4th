@@ -9,6 +9,12 @@
       "request": "launch",
       "name": "Launch Program",
       "program": "${workspaceFolder}/chapter1/expression.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "stack by list",
+      "program": "${workspaceFolder}/chapter1/stack_by_llist.js"
     }
   ]
 }
